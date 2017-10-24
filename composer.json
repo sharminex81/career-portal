@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "sharminex81/career-portal",
+    "description": "Job Recruitment Management System of a Company",
+    "keywords": ["career", "career portal", "job recruitment"],
     "license": "MIT",
     "type": "project",
     "require": {
